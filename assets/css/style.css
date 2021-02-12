@@ -19,6 +19,7 @@ header h1 {
 }
 
 header a {
+    text-decoration: none;
     color: #fce138;
 }
 
@@ -26,4 +27,5 @@ li {
     float: right;
     display: inline;
     padding: 5px;
+    margin: 7px 0;
 }
