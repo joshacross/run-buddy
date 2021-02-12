@@ -1,0 +1,29 @@
+body {
+    color: #39a6b2;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 40px 35px;
+    background-color: #39a6b2;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    float: left;
+}
+
+header a {
+    color: #fce138;
+}
+
+li {
+    float: right;
+    display: inline;
+    padding: 5px;
+}
