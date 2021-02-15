@@ -75,12 +75,23 @@ footer a {
 
 /* HERO STYLES & FORM */
 
+/*Homepage hero*/
   .hero {
       background-image: url("../images/hero-bg.jpg");
+      margin: 20px;
+      background-color: white;
       height: 600px;
       background-size: cover;
       background-position: center;
       position: relative;
+  }
+
+  /*secondary page hero*/
+  .hero-secondary {
+    margin:20px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
   }
   
   .hero-form {
