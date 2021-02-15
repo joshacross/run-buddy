@@ -23,6 +23,6 @@ This home page and it's secondary page serve as a website for a mock fitness tra
 
 Reference Link: <a href="https://joshacross.github.io/run-buddy/">Run Buddy's Mock Website</a>
 
-<img src="./assets/images/joshacross.github.io_run-buddy_.png />
+<img src="./assets/images/joshacross.github.io_run-buddy_.png" />
 
-<img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png />
+<img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
