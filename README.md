@@ -4,11 +4,7 @@
 The following project (home page & privacy policy) was created through a HTML and CSS tutorial through Vanderbilt's Full-Stack Web Development coding bootcamp. This home page and it's secondary page serve as a website for a mock fitness training company.
 
 ## Built With
-<<<<<<< HEAD
-* Html
-=======
 * HTML
->>>>>>> main
 * CSS
 
 ## Description
@@ -31,14 +27,10 @@ The following project (home page & privacy policy) was created through a HTML an
 ## Website
 https://joshacross.github.io/run-buddy/
 
-<<<<<<< HEAD
 ## Contribution
 Made with ❤️ by Joshua Cross
 
 ## Reference Images
-=======
-## Referenced Images
->>>>>>> main
 <img src="./assets/images/joshacross.github.io_run-buddy_.png" />
 
 <img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
