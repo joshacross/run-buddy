@@ -31,3 +31,5 @@ https://joshacross.github.io/run-buddy/
 <img src="./assets/images/joshacross.github.io_run-buddy_.png" />
 
 <img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
+
+### ©️2019 Run Buddy, Inc.
