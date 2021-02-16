@@ -7,23 +7,22 @@ The following project (home page & privacy policy) was created through a HTML an
 * HTML
 * CSS
 
-<ul>
-  <li>Interacted with the computer's file system by using the command line.</li>
+## Description
+* Interacted with the computer's file system by using the command line.
 
-  <li>Created an HTML document in VS Code.</li>
+* Created an HTML document in VS Code.
 
-  <li>Applied meaning, context, and functionality to HTML elements by using HTML attributes.</li>
+* Applied meaning, context, and functionality to HTML elements by using HTML attributes.
 
-  <li>Interpreted a mock-up given to us by designers by dividing it into sections, or containers, to create organized HTML content.</li>
+* Interpreted a mock-up given to us by designers by dividing it into sections, or containers, to create organized HTML content.
 
-  <li>Used Git to create a repository for the project and create reassuring save points throughout the build process.</li>
+* Used Git to create a repository for the project and create reassuring save points throughout the build process.
 
-  <li>Used GitHub to create a remote location for the repository, and then published the project to GitHub Pages for others to see.</li>
+* Used GitHub to create a remote location for the repository, and then published the project to GitHub Pages for others to see.
 
-  <li>Applied style and layout to HTML content by using CSS, syntax, rules, and quirks.</li>
+* Applied style and layout to HTML content by using CSS, syntax, rules, and quirks.
 
-  <li>Used the knowledge gained from building the Run Buddy landing page to create a Privacy Policy page.</li>
-</ul>
+* Used the knowledge gained from building the Run Buddy landing page to create a Privacy Policy page.
 
 ## Website
 https://joshacross.github.io/run-buddy/
