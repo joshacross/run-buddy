@@ -1,4 +1,4 @@
-# run-buddy
+# Run-buddy, Inc.
 
 ## Purpose
 The following project (home page & privacy policy) was created through a HTML and CSS tutorial through Vanderbilt's Full-Stack Web Development coding bootcamp. This home page and it's secondary page serve as a website for a mock fitness training company.
