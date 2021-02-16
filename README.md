@@ -1,4 +1,4 @@
-# Run-buddy, Inc.
+# Run-Buddy, Inc.
 
 ## Purpose
 The following project (home page & privacy policy) was created through a HTML and CSS tutorial through Vanderbilt's Full-Stack Web Development coding bootcamp. This home page and it's secondary page serve as a website for a mock fitness training company.
@@ -34,3 +34,5 @@ Made with ❤️ by Joshua Cross
 <img src="./assets/images/joshacross.github.io_run-buddy_.png" />
 
 <img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
+
+### ©️2021 Run Buddy, Inc
