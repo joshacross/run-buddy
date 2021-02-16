@@ -24,6 +24,12 @@ The following project (home page & privacy policy) was created through a HTML an
 
 * Used the knowledge gained from building the Run Buddy landing page to create a Privacy Policy page.
 
+* Visualized layouts as parent/child relationships using wireframing to determine what needs to be done
+
+* Created responsive page layouts with flexbox properties
+
+* adjusted layouts so that horizontal space takes precedence
+
 ## Website
 https://joshacross.github.io/run-buddy/
 
