@@ -1,7 +1,11 @@
 # run-buddy
 
-<p>The following project (home page & privacy policy) was created through a HTML and CSS tutorial through Vanderbilt's Full-Stack Web Development coding bootcamp.
-This home page and it's secondary page serve as a website for a mock fitness training company.<p>
+## Purpose
+The following project (home page & privacy policy) was created through a HTML and CSS tutorial through Vanderbilt's Full-Stack Web Development coding bootcamp. This home page and it's secondary page serve as a website for a mock fitness training company.
+
+## Built With
+* HTML
+* CSS
 
 <ul>
   <li>Interacted with the computer's file system by using the command line.</li>
@@ -21,8 +25,10 @@ This home page and it's secondary page serve as a website for a mock fitness tra
   <li>Used the knowledge gained from building the Run Buddy landing page to create a Privacy Policy page.</li>
 </ul>
 
-Reference Link: <a href="https://joshacross.github.io/run-buddy/">Run Buddy's Mock Website</a>
+## Website
+https://joshacross.github.io/run-buddy/
 
+## Referenced Images
 <img src="./assets/images/joshacross.github.io_run-buddy_.png" />
 
 <img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
