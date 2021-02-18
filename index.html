@@ -40,7 +40,7 @@
       <div class="hero-form">
           <h3>Get Started Today!</h3>
           <p>Fill out this form and one of our trainers will schedule a consult.</p>
-          <form>
+          <form action="#">
             <label for="name">Enter full name:</label>
             <input
               class="form-input"
@@ -48,6 +48,7 @@
               placeholder="Your Name"
               name="name"
               id="name"
+              required
             />
             <label for="email">
               Enter email address:
@@ -58,6 +59,7 @@
               placeholder="Email Address" 
               name="email" 
               id="email" 
+              required
             />
             <label for="phone">
               Enter a telephone number:
@@ -67,7 +69,8 @@
               type="tel" 
               placeholder="Phone Number" 
               name="phone" 
-              id="phone" 
+              id="phone"
+              required
             />
             <p>
               Have you worked out with a trainer before?
@@ -130,7 +133,7 @@
           <h2 class="section-title secondary-border">
             What You Do
           </h2>
-        </div>  
+        </div>
         <div class="step">
           <h3>Step 1: </h3>
           <div class="step-info">
@@ -267,11 +270,20 @@
               <label for="contact-name">
                 Your Name
               </label>
-              <input type="text" id="contact-name" placeholder="Your Name" />
+              <input 
+                type="text" 
+                id="contact-name" 
+                placeholder="Your Name"
+                required 
+              />
               <label for="contact-message">
                 Message
               </label>
-              <textarea id="contact-message" placeholder="Message">
+              <textarea 
+                id="contact-message" 
+                placeholder="Message" 
+                required 
+              />
               </textarea>
               <button type="submit">Submit</button>
             </form>

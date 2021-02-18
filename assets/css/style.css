@@ -189,6 +189,7 @@ section {
   .form-input:focus {
     background-color: rgba(255,255,255, 1);
     outline: none;
+    border: 1px solid #39a6b2;
   }
 
   .hero-form label {
@@ -297,7 +298,7 @@ section {
   .intro p {
     line-height: 1.7;
     color: #39a6b2;
-    width: 80%;
+    width: 70%;
     font-size: 20px;
     margin: 0 auto;
     text-align: center;
@@ -332,6 +333,7 @@ section {
     color: #024e76;
     font-size: 46px;
     flex: 1 30%;
+    text-align: center;
   }
 
   .step-text h4 {
@@ -349,7 +351,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    flex: 2 70%;
+    flex: 2 55%;
   }
 
   .step-img {
@@ -456,6 +458,12 @@ section {
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
+  }
+
+  .contact-form input:focus, .contact-form textarea:focus {
+    background-color: rgba(255,255,255, 1);
+    outline: none;
+    border: 1px solid #39a6b2;
   }
 
   .contact-form button {
