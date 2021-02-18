@@ -38,7 +38,7 @@ Made with ❤️ by Joshua Cross
 
 ## Reference Images
 
-<img src="./assets/images/landing-page-v2.0.png" />
+<img src="./assets/images/landing-page-v2.0.0.png" />
 
 <img src="./assets/images/privacy-v2.0.png" />
 
