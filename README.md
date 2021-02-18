@@ -26,9 +26,11 @@ The following project (home page & privacy policy) was created through a HTML an
 
 * Visualized layouts as parent/child relationships using wireframing to determine what needs to be done
 
-* Created responsive page layouts with flexbox properties
+* Created responsive page layouts with flexbox properties & media queries
 
 * adjusted layouts so that horizontal space takes precedence
+
+* Enhanced visuals of the Run Buddy site with advanced CSS (i.e. Psuedoclass)
 
 ## Website
 https://joshacross.github.io/run-buddy/
