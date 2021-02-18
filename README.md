@@ -40,6 +40,6 @@ Made with ❤️ by Joshua Cross
 
 <img src="./assets/images/landing-page-v2.0.png" />
 
-<img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
+<img src="./assets/images/privacy-v2.0.png" />
 
 ### ©️2021 Run Buddy, Inc.
