@@ -37,7 +37,7 @@ https://joshacross.github.io/run-buddy/
 Made with ❤️ by Joshua Cross
 
 ## Reference Images
-<img src="./assets/images/joshacross.github.io_run-buddy_.png" />
+<img src="./assets/images/landing-page-v2.0.png" />
 
 <img src="./assets/images/joshacross.github.io_run-buddy_privacy-policy.html.png" />
 
